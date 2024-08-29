@@ -1,2 +1,2 @@
 <span>Link zur Website:</span>
-<a href="https://toxiclynx11.github.io/FlappyBird/">toxiclynx11.github.io/FlappyBird</a>
+<a href="https://toxic-lynx.github.io/FlappyBird/">toxiclynx11.github.io/FlappyBird</a>
