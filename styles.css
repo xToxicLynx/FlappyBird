@@ -87,7 +87,6 @@ body {
     bottom: 150px;
     width: calc(var(--pipe-width) * 1px);
     left: calc(var(--pipe-left) * 1px);
-    transition: transform 0.1s ease-out;
 }
 
 .pipe>.segment {
