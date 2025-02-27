@@ -12,7 +12,6 @@ body {
     background-attachment: fixed;
     background-size: auto 100%;
     image-rendering: pixelated;
-    image-rendering: crisp-edges;
 }
 
 .title {
