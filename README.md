@@ -1,1 +1,1 @@
-<a href="https://toxic-lynx.github.io/FlappyBird/">toxiclynx11.github.io/FlappyBird</a>
+<a href="https://xtoxiclynx.github.io/FlappyBird/">xtoxiclynx.github.io/FlappyBird</a>
